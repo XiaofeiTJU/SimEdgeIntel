@@ -1,0 +1,12 @@
+2020-12-27 16:52:23  [ cn.edu.tju.simulation.main.SimEdgeIntel.<init>(EdgeSim.java:81) ] - [ INFO ]  The program is running
+2020-12-27 16:52:23  [ cn.edu.tju.simulation.context.Context.initial(Controller.java:126) ] - [ DEBUG ]  Load initial parameters successfully����
+2020-12-27 16:52:23  [ cn.edu.tju.simulation.context.Context.initial(Controller.java:131) ] - [ DEBUG ]  Initialize the popularity according to power law distribution
+2020-12-27 16:52:29  [ cn.edu.tju.simulation.main.SimEdgeIntel$MyActionListener.windowClosing(EdgeSim.java:163) ] - [ INFO ]  The program is closed normally
+2020-12-27 16:53:12  [ cn.edu.tju.simulation.main.SimEdgeIntel.<init>(EdgeSim.java:81) ] - [ INFO ]  The program is running
+2020-12-27 16:53:12  [ cn.edu.tju.simulation.context.Context.initial(Context.java:126) ] - [ DEBUG ]  Load initial parameters successfully����
+2020-12-27 16:53:12  [ cn.edu.tju.simulation.context.Context.initial(Context.java:131) ] - [ DEBUG ]  Initialize the popularity according to power law distribution
+2020-12-27 16:53:16  [ cn.edu.tju.simulation.main.SimEdgeIntel$MyActionListener.windowClosing(EdgeSim.java:163) ] - [ INFO ]  The program is closed normally
+2020-12-27 16:56:25  [ cn.edu.tju.simulation.main.SimEdgeIntel.<init>(EdgeSim.java:81) ] - [ INFO ]  The program is running
+2020-12-27 16:56:25  [ cn.edu.tju.simulation.context.Context.initial(Context.java:126) ] - [ DEBUG ]  Load initial parameters successfully����
+2020-12-27 16:56:25  [ cn.edu.tju.simulation.context.Context.initial(Context.java:131) ] - [ DEBUG ]  Initialize the popularity according to power law distribution
+2020-12-27 16:56:31  [ cn.edu.tju.simulation.main.SimEdgeIntel$MyActionListener.windowClosing(EdgeSim.java:163) ] - [ INFO ]  The program is closed normally
